@@ -4,12 +4,12 @@ layout: default
 
 ## Welcome to Chen Xia's Homepage
 
-I am a Ph.D. student at [ITP-CAS](http://www.itp.cas.cn). My research feild is dark matter phenomenology.
+I am a Ph.D. student at [ITP-CAS](http://www.itp.cas.cn). My research field is dark matter phenomenology.
 
 
 ### My publications
 
-You can find my publications on [InspireHep](https://inspirehep.net/authors/1879352).
+You can find my publications on [Inspire-HEP](https://inspirehep.net/authors/1879352).
 
 
 ### My project
