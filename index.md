@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 ## Welcome to Chen Xia's Homepage
@@ -14,6 +14,5 @@ You can find my publications on [InspireHep](https://inspirehep.net/authors/1879
 
 ### My project
 
-- [DarkProp](http://yfzhou.itp.ac.cn/darkprop)
-
+- [DarkProp](http://yfzhou.itp.ac.cn/darkprop):
   A Monte Carlo simulation code for the propagation of dark matter particles in matter.
