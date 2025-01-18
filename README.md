@@ -1,6 +1,6 @@
 ## My Homepage
 
-Please visit [xiachen.site](https://xiachen.site).
+Please visit [xiachen.top](https://xiachen.top).
 
 ### Useful links
 
